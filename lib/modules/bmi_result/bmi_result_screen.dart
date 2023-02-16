@@ -42,7 +42,7 @@ class BmiResultScreen extends StatelessWidget
                 color: Colors.grey,
                 fontSize: 35.0,
               ),
-            ),
+           ),
             Text(
               'Age : $age',
               style: TextStyle(
